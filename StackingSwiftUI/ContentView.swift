@@ -22,9 +22,9 @@ struct ContentView: View {
                     Spacer().frame(height: 5).background(Color.red)
                     Text("LBTA").padding(.all, 16).background(Color.purple)
                 }
-            }.background(Color.yellow)
+            }.background(Color.pink)
         }
-        
+         
         
 //        HStack{
 //
